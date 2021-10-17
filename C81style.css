@@ -1,0 +1,17 @@
+
+h1
+{
+	color: rgb(25, 94, 221); 
+	font-size: 45px;
+}
+.body_backgorund {
+	background-image:url("bg1.jpg") ;
+	background-position: center ;
+	background-size:cover ;
+}
+
+#mc{
+background-color: white;
+border: 10px; 
+border-style: ridge;
+}
